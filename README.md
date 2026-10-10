@@ -1,3 +1,4 @@
+```
 src/
 ├── app/
 │ ├── App.tsx
@@ -37,3 +38,4 @@ src/
 │ ├── BlogPage.tsx
 │ └── ArticlePage.tsx
 └── index.tsx
+```
